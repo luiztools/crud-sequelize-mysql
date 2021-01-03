@@ -3,6 +3,8 @@ Fontes do tutorial de CRUD com Node.js, Sequelize e MySQL.
 
 Link do tutorial Parte 1 e 2: https://www.luiztools.com.br/post/tutorial-de-crud-com-node-js-sequelize-e-mysql/
 
+Link do tutorial de Migrations (parte 3): https://www.luiztools.com.br/post/tutorial-de-migrations-com-nodejs-e-sequelize/
+
 Meus cursos: https://www.luiztools.com.br/meus-cursos
 
 Meus livros: https://www.luiztools.com.br/meus-livros
